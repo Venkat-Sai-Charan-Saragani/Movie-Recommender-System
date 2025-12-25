@@ -17,7 +17,7 @@ This project is a **Movie Recommendation System** that suggests movies similar t
 ## Similarity Matrix File
 
 This project uses a precomputed **similarity matrix** stored in `similarity.pkl`.  
-It contains the pairwise similarity scores between movies, computed using content-based features such as genres, keywords, cast, and overview text.[web:11][web:13]
+It contains the pairwise similarity scores between movies, computed using content-based features such as genres, keywords, cast, and overview text.
 
 You can download the `similarity.pkl` file from the link below and place it in the project root directory:
 
@@ -70,4 +70,4 @@ streamlit run app.py
 
 
 
-Make sure that `similarity.pkl` is in the same folder as `app.py` / `main.py` before running the application.[web:14]
+Make sure that `similarity.pkl` is in the same folder as `app.py` / `main.py` before running the application.
