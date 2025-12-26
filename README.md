@@ -1,7 +1,3 @@
-# Movie-Recommender-Streamlit
-movie-recommender-streamlit is a content-based movie recommendation web app built with Streamlit that suggests similar movies based on a movie selected by the user. It uses preprocessed movie metadata and a similarity matrix to return the top recommended titles in an interactive UI
-
-
 # Movie Recommendation System
 
 This project is a **Movie Recommendation System** that suggests movies similar to a movie selected by the user. It uses content-based filtering to recommend titles based on movie metadata such as genres, keywords, cast, and overview. The goal is to provide personalized movie suggestions in a simple and interactive way.
